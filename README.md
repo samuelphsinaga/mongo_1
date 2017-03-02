@@ -22,3 +22,6 @@ Source :
 
 ### Restart
 `sudo service mongod restart`
+
+### Everything in Mongoose starts with a Schema. Each schema maps to a MongoDB collection and defines the shape of the documents within that collection.
+DOCUMENTATION : [http://mongoosejs.com/docs/guide.html] (http://mongoosejs.com/docs/guide.html)
